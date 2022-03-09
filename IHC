@@ -1,0 +1,27 @@
+##Avaliação Hermética
+
+#RESUMO
+
+>A internet, meio de comunicação amplamente difundido, favorece
+>hoje diferentes grupos de usuários, inclusive os deficientes visuais.
+>Para que este grupo em especial possa se favorecer desta ferramenta
+>em suas atividades diárias, de forma eficaz, é necessário que haja
+>atenção especial no desenvolvimento da interface das páginas Web.
+>O W3C, órgão que visa normatizar internacionalmente o conteúdo
+>da Web, disponibiliza através da WCAG (Web Content Accessibility
+>Guidelines), diretrizes que visam orientar o desenvolvedor na tarefa
+>de criar um projeto com os níveis de acessibilidade adequados para
+>conteúdo Web. Essa pesquisa tem por objetivo apresentar a atual
+>situação de acessibilidade de sites comumente utilizados por usuários,
+>visando identificar a utilização dos padrões de acessibilidade do W3C
+>por parte dos desenvolvedores de paginas Web. Para tanto, foi utilizada
+>a ferramenta DaSilva, avaliador em português, baseando nas regras de
+>acessibilidade do WCAG, em 10 sites divididos entre sites de notícias
+>online, instituições de ensino, lojas virtuais, bancos e organizações
+>públicas. Analisando os resultados dos testes, nota-se que o processo
+>de implantação das adaptações para acessibilidade ainda está em fase
+>inicial. Os resultados obtidos mostram que 20% dos sites testados
+>foram desenvolvidos usando as recomendações de acessibilidade da WCAG,
+>o que pode ser considerado razoável, pelo tamanho da amostra,
+>porém pouco satisfatório levando em consideração o universo de sites
+>atualmente disponibilizados na internet. 
