@@ -36,7 +36,12 @@
        </thead>
     <tbody>
      <tr>
-     <td><img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/cadastro%20de%20energia.png"width="400px"></td>
-     <td><img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/conta%20energia.png"width="400px"></td>
-     <td><img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/cadastro%20de%20agua.png"width="400px"></td>
-     <td><img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/conta%20agua.jpg"width="400px"></td>
+     <td><img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/cadastro%20de%20energia.png"width="600px"></td>
+     <td><img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/conta%20energia.png"width="400px">
+       </td>
+      </tr>
+      <tr>
+     <td><img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/cadastro%20de%20agua.png"width="600px"></td>
+     <td><img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/conta%20agua.jpg"width="400px">
+        </td>
+      </tr>
