@@ -12,13 +12,13 @@
 </p>
 
 <h3> Cadastro de Conta de Energia </h3>
-<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/cadastro%20de%20energia.png"width="500" height="300" align="center"/>
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/cadastro%20de%20energia.png"width="500" height="300" align="center"/>
 <hr>
 <h3> Cadastro de Conta de Água </h3>
-<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/cadastro%20de%20agua.png"width="500" height="300" align="center"/>
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/cadastro%20de%20agua.png"width="500" height="300" align="center"/>
 <hr>
 <h3> Cadastro de Contrato </h3>
-<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/cadastroContrato.jpg"width="500" height="300" align="center"/>
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/cadastroContrato.jpg"width="500" height="300" align="center"/>
 <hr>
 
 <h3>:wrench: Reconhecimento por Posicionamento</h3>
@@ -28,3 +28,12 @@
   Facilitando a busca da informação necessária.
 </p>
 
+<h2>:globe_with_meridians: Página de Cadastro das contas</h2>
+  <table align="left">
+    <thead>
+      <th>Tela da aplicação</th>
+      <th>Conta correspondente</th>
+       </thead>
+    <tbody>
+     <tr>
+     <img src=""width="400px">
