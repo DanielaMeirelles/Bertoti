@@ -10,12 +10,12 @@
   A seguir um exemplo de como foi feito.
 </p>
 
-<h3> Cadastro de Cliente </h3>
-<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/CadastroCliente_1.gif"/>
+<h3> Cadastro de Conta de Energia </h3>
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/cadastroEnergia.gif"/>
 <hr>
-<h3> Cadastro de Concessionária </h3>
-<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/CadastroConce._1.gif"/>
+<h3> Cadastro de Conta de Água </h3>
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/cadastroAgua.gif"/>
 <hr>
-<h3> Cadastro de Instalação </h3>
-<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/CadastroInstalacao_1.gif"/>
+<h3> Cadastro de Contrato </h3>
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/cadastroContrato.jpg"/>
 <hr>
