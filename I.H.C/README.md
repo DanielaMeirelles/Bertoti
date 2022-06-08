@@ -1,6 +1,12 @@
 <h1 align="center">Eurísticas Utilizadas no API</h1>
 </p>
 
+</p>
+  <h3> :dart: Diretriz 2.1 - Acessível por Teclado</h3>
+  <p> Foram utilizados atalhos no teclado para tornar a navegação através dos campos mais facilitada.<p>
+  <p>:white_check_mark: tecla TAB.</p>
+  <p>:white_check_mark: setas do teclado.</p>
+  
 <h3> :dart: 6: Reconhecimento em vez de recordação</h3>
 </p>
 
