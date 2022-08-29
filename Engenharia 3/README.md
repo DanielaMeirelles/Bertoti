@@ -1,1 +1,3 @@
-## Repositório para apresentação da matéria Engenharia de Software 3 do professor GIULIANO ARAUJO BERTOTI
+# Apresentação da matéria Engenharia de Software 3
+## Professor: GIULIANO ARAUJO BERTOTI
+FATEC - Prof. Jessen Vidal
