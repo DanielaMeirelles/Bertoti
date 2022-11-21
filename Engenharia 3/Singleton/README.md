@@ -1,4 +1,4 @@
-<h2>FACADE PATTERN</h2>
+<h2>SINGLETON PATTERN</h2>
 <p>
   <h3>:scroll: Propósito</h3>
     </p>
