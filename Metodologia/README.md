@@ -17,7 +17,7 @@
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 
-<img src="https://github.com/DanielaMeirelles/Portifolio/blob/main/TecnologiasUtilizadas.png" width="700" height="650" align="center"/>
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/TecnologiasUtilizadas.png" width="700" height="650" align="center"/>
 
 <h3>:computer: Contribuições Individuais </h3>
 
