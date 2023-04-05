@@ -30,9 +30,9 @@ Principal responsável pelo designer do projeto. Realizei o desenvolvimento das 
 <h3>:heavy_exclamation_mark: Informações de Destaque</h3>
 </p>
   <h3> :ballot_box_with_check: Diretriz 2.1 - Acessível por Teclado</h3>
-  <p> Foram utilizados atalhos no teclado para tornar a navegação através dos campos mais facilitada.<p>
-  <p>:white_check_mark: tecla TAB.</p>
-  <p>:white_check_mark: setas do teclado.</p>
+  <p> Foram utilizados atalhos no teclado para tornar a navegação através dos campos de forma mais rápida e fácil.<p>
+  <p> - Utilização da tecla TAB.</p>
+  <p> - Utilização das setas do teclado.</p>
   
 <h3> :ballot_box_with_check: 6: Reconhecimento em vez de recordação</h3>
 </p>
@@ -44,15 +44,16 @@ Principal responsável pelo designer do projeto. Realizei o desenvolvimento das 
   e de água na cor azul.
 </p>
 
-<h3> Cadastro de Conta de Energia </h3>
+<h4> Cadastro de Conta de Energia </h4>
 <img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/cadastro%20de%20energia.png"width="500" height="300" align="center"/>
 <hr>
-<h3> Cadastro de Conta de Água </h3>
+<h4> Cadastro de Conta de Água </h4>
 <img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/cadastro%20de%20agua.png"width="500" height="300" align="center"/>
 <hr>
-<h3> Cadastro de Contrato </h3>
+<h4> Cadastro de Contrato </h4>
 <img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/cadastroContrato.jpg"width="500" height="300" align="center"/>
 <hr>
+
 <h3>:wrench: Reconhecimento por Posicionamento</h3>
 </p>
 
@@ -77,3 +78,4 @@ Principal responsável pelo designer do projeto. Realizei o desenvolvimento das 
      <td><img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/I.H.C/Documents/conta%20agua.jpg"width="400px">
         </td>
       </tr>
+  </tbody>
