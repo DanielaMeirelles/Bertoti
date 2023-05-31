@@ -23,6 +23,10 @@
 
 Neste projeto fui responsabilizada pela função de Product Owner, onde mantinha o contato com a empresa parceira através do aplicativo Slack. Pude desenvolver junto com a equipe algumas coisas ligadas diretamente ao projeto, porém, meu foco principal era preparar as próximas Sprints. Pois o formato proposto para realizar o projeto foi a metodologia Scrum. Então através do orientador do projeto, utilizei de técnicas de Engenharia de Software, tais como o DOD (Definition of Done) e o DOR (Definition of Ready).
 
+<h3>:computer: Exemplo de arquivo gerado através do DOR</h3>
+Fluxograma da aplicação
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/Imagens/Mapa%20de%20experi%C3%AAncia%20do%20cliente%20completo.png" align="center"/> 
+
 <h2> :pushpin: Hard Skills Efetivamente Desenvolvidas </h2>
 
 Principal responsável pelo designer do projeto. Realizei o desenvolvimento das telas com base nas heurísticas de Nielsen e no W3C, visando uma melhor experiência do usuário e responsividade (UX / UI).
