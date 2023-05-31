@@ -18,12 +18,10 @@
 			$("#busca").click(function() {
 
 				var modelo = $( "#modelo option:selected" ).text();
-				var marca = $( "#marca option:selected" ).text();
-				var cor = $( "#cor option:selected" ).text();
 					
 				$("#dadosCarro").empty();
 					
-				var url = "/carro/"+modelo+"/"+marca+"/"+cor+"";
+				var url = "/carro/"+modelo+"";
 					
 
 				$.getJSON(url, function(data) {
@@ -32,7 +30,7 @@
 						
 						$.each(data, function(i){
 						
-							itens.push("<tr> <td>"+ this.placa +"</td><td>"+ this.espc.modelo + "</td><td>"+ this.espc.marca + "</td><td>"+ this.espc.cor + "</td></tr>");
+							itens.push("<tr> <td>"+ this.placa +"</td><td>"+ this.espc.modelo + "</td></tr>");
 							
 						});
 									
@@ -63,33 +61,7 @@
                     <option value="" selected="selected">Escolha o modelo</option>
                     <option value="gol">Gol</option>
                     <option value="uno">Uno</option>
-                    <option value="chevete">chevete</option>
-                    
-                </select>
-            </div>
-		
-		
-		
-            <div class="form-group col-md-4">
-                <label>Marca</label>
-                <select id="marca" class="input-large form-control">
-                    <option value="" selected="selected">Escolha a marca</option>
-                    <option value="vw">VW</option>
-                    <option value="fiat">Fiat</option>
-                    <option value="gm">GM</option>
-                    
-                </select>
-            </div>
-		
-		
-		
-            <div class="form-group col-md-4">
-                <label>Cor</label>
-                <select id="cor" class="input-large form-control">
-                    <option value="" selected="selected">Escolha a cor</option>
-                    <option value="vermelho">vermelho</option>
-                    <option value="verde">verde</option>
-                    <option value="cinza">cinza</option>
+                    <option value="chevete">Chevete</option>
                     
                 </select>
             </div>
