@@ -17,7 +17,7 @@
 
 <h3>:wrench: Ferramentas & Tecnologias utilizadas</h3>
 
-<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/TecnologiasUtilizadas.png" width="700" height="650" align="center"/>
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/Imagens/TecnologiasUtilizadas.png" width="700" height="650" align="center"/>
 
 <h3>:computer: Contribuições Individuais </h3>
 
@@ -45,13 +45,13 @@ Principal responsável pelo designer do projeto. Realizei o desenvolvimento das 
 </p>
 
 <h4> Cadastro de Conta de Energia </h4>
-<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/cadastro%20de%20energia.png"width="500" height="300" align="center"/>
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/Imagens/cadastro%20de%20energia.png"width="500" height="300" align="center"/>
 <hr>
 <h4> Cadastro de Conta de Água </h4>
-<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/cadastro%20de%20agua.png"width="500" height="300" align="center"/>
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/Imagens/cadastro%20de%20agua.png"width="500" height="300" align="center"/>
 <hr>
 <h4> Cadastro de Contrato </h4>
-<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/cadastroContrato.jpg"width="500" height="300" align="center"/>
+<img src="https://github.com/DanielaMeirelles/Bertoti/blob/main/Metodologia/Imagens/cadastroContrato.jpg"width="500" height="300" align="center"/>
 <hr>
 
 <h3>:wrench: Reconhecimento por Posicionamento</h3>
